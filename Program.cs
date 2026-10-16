@@ -21,3 +21,22 @@
 // Console.WriteLine(grades.Length);
 
 
+
+// string[] students = { "Аня", "Ярослав", "Вика" };
+
+// foreach (string student in students)
+// {
+//    Console.WriteLine(student);
+// }
+
+
+
+// int[] points = { 10, 20, 15 };
+
+// foreach (int point in points)
+// {
+//    point = point + 5;
+// }
+
+
+
